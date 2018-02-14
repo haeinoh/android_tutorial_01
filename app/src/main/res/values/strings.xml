@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="the_first_number">the first number</string>
+    <string name="the_second_number">the second number</string>
+    <string name="add">ADD</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="divide">DIVIDE</string>
+</resources>
